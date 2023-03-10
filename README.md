@@ -47,8 +47,6 @@ row_id: soundscape_id]_[end_time] のスラッグで、予測のためのもの�
 - bird_id]です。鳥のIDカラムは264個あります。各行に対して各鳥の存在確率を予測する必要があります。
 - eBird_Taxonomy_v2021.csv - 異なる種間の関係に関するデータです。
 
-www.DeepL.com/Translator（無料版）で翻訳しました。
-
 # Reference
 | No | Status | Name | Detail | Url |
 | --- | --- | --- | --- | --- |
@@ -65,5 +63,3 @@ www.DeepL.com/Translator（無料版）で翻訳しました。
 ## 230311
 ついにエントリー。
 
-## 221120え
-## 221120
