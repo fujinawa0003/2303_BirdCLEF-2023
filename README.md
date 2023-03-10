@@ -50,7 +50,7 @@ row_id: soundscape_id]_[end_time] のスラッグで、予測のためのもの�
 # Reference
 | No | Status | Name | Detail | Url |
 | --- | --- | --- | --- | --- |
-| 01 | to do | NOVO ESP – ELI5 - Performant Approaches [LB=0.451] | voteが高いcode | [url](https://www.kaggle.com/code/dschettler8845/novo-esp-eli5-performant-approaches-lb-0-451)|
+| 01 | doing | Inferring Birds with Kaggle Models | kaggleからの前回のモデル | [url]([https://www.kaggle.com/code/dschettler8845/novo-esp-eli5-performant-approaches-lb-0-451)](https://www.kaggle.com/code/philculliton/inferring-birds-with-kaggle-models)|
 
 
 # やってみたいことリスト
